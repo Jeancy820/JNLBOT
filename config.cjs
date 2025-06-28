@@ -5,8 +5,8 @@ const config = {
   // 🧠 Session & Identity
   SESSION_ID: process.env.SESSION_ID || "Popkidmd$MLJjtNih",
   PREFIX: process.env.PREFIX || '.',
-  BOT_NAME: process.env.BOT_NAME || "POPKID GLE",
-  BOT: process.env.BOT || "hello 👋",
+  BOT_NAME: process.env.BOT_NAME || "JNL BOT",
+  BOT: process.env.BOT || "salut 👋",
   NEW_CMD: process.env.NEW_CMD || "ᴀᴅᴅᴠᴀʀ\n│ sᴜᴅᴏ\n| popkid",
   CAPTION: process.env.CAPTION || "ᴘᴏᴡᴇʀᴇᴅ by popkid",
 
