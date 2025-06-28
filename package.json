@@ -1,5 +1,5 @@
 {
-  "name": "POPKID-GLE",
+  "name": "JNL-BOT",
   "version": "2.0.0",
   "description": "Better than before",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "npm": "9.x"
   },
   "keywords": ["POPKID-SRT", "whatsapp-bot", "whatsapp md bot"],
-  "author": "POPKID-GLE",
+  "author": "IrJeancyTech",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
